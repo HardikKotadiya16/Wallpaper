@@ -1,1 +1,84 @@
 
+{
+  "status": "1",
+  "data": [
+    {
+      "id": 1,
+      "name": "Ratio",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/16.9.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/9.16.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/4.3.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/3.4.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/2.3.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Facebook",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/851X315.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/940X778.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/810X450.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/1200X627.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/720X720.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/820X428.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Instagram",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1080.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1350.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X566.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Twitter",
+      "size": [
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1500X1500.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1024X512.png"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/200X200.png"
+        }
+      ]
+    }
+  ]
+}
