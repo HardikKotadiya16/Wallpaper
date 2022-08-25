@@ -7,27 +7,39 @@
       "size": [
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/1.1.png",
-          "title": ""
+          "title": "",
+          "height": "1080",
+          "width": "1080"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/16.9.png",
-          "title": ""
+          "title": "",
+          "height": "1080",
+          "width": "1920"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/9.16.png",
-          "title": ""
+          "title": "",
+          "height": "1920",
+          "width": "1080"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/4.3.png",
-          "title": ""
+          "title": "",
+          "height": "1080",
+          "width": "1440"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/3.4.png",
-          "title": ""
+          "title": "",
+          "height": "1440",
+          "width": "1080"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Ratio/2.3.png",
-          "title": ""
+          "title": "",
+          "height": "1620",
+          "width": "1080"
         }
       ]
     },
@@ -37,27 +49,39 @@
       "size": [
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/851X315.png",
-          "title": "Cover"
+          "title": "Cover",
+          "width": "851",
+          "height": "315"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/940X788.png",
-          "title": "Post"
+          "title": "Post",
+          "width": "940",
+          "height": "788"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/810X450.png",
-          "title": "App Image"
+          "title": "App Image",
+          "width": "810",
+          "height": "450"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/1200X627.png",
-          "title": "Ad Image"
+          "title": "Ad Image",
+          "width": "1200",
+          "height": "627"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/720X720.png",
-          "title": "Profile Image"
+          "title": "Profile Image",
+          "width": "720",
+          "height": "720"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/820X428.png",
-          "title": "Group Cover Photo"
+          "title": "Group Cover Photo",
+          "width": "820",
+          "height": "428"
         }
       ]
     },
@@ -67,15 +91,21 @@
       "size": [
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1080.png",
-          "title": "Post"
+          "title": "Post",
+          "width": "1080",
+          "height": "1080"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X1350.png",
-          "title": "Post"
+          "title": "Post",
+          "width": "1080",
+          "height": "1350"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Instagram/1080X566.png",
-          "title": "Post"
+          "title": "Post",
+          "width": "1080",
+          "height": "566"
         }
       ]
     },
@@ -85,15 +115,21 @@
       "size": [
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1500X500.png",
-          "title": "Cover"
+          "title": "Cover",
+          "width": "1500",
+          "height": "500"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/1024X512.png",
-          "title": "Post"
+          "title": "Post",
+          "width": "1024",
+          "height": "512"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Twitter/200X200.png",
-          "title": "Profile Image"
+          "title": "Profile Image",
+          "width": "200",
+          "height": "200"
         }
       ]
     }
