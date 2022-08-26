@@ -3,27 +3,27 @@
   "data": [
     {
       "id": 1,
-      "type":"birthday",
+      "type": "birthday",
       "title": "Birthday",
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/icon.png"
-      },
-       {
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/birthday/icon.png"
+    },
+    {
       "id": 2,
-      "type":"bokeh",
+      "type": "bokeh",
       "title": "Bokeh",
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/icon.png"
-      },
-       {
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/bokeh/icon.png"
+    },
+    {
       "id": 3,
-      "type":"brick",
+      "type": "brick",
       "title": "Brick",
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/brick/icon.png"
-      },
-       {
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/brick/icon.png"
+    },
+    {
       "id": 4,
-      "type":"cats",
+      "type": "cats",
       "title": "Cats",
-      "icon":"https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/cats/icon.png"
-      },
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/cats/icon.png"
+    }
   ]
 }
