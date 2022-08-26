@@ -24,6 +24,25 @@
       "type": "cats",
       "title": "Cats",
       "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/cats/icon.png"
+    },
+    {
+      "id": 5,
+      "type": "chevron",
+      "title": "Chevron",
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/chevron/icon.png"
+    },
+    {
+      "id": 6,
+      "type": "dogs",
+      "title": "Dogs",
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/dogs/icon.png"
+    },
+    {
+      "id": 7,
+      "type": "fall",
+      "title": "Fall",
+      "icon": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Background/Category/fall/icon.png"
     }
+  
   ]
 }
