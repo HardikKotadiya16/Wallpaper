@@ -51,13 +51,13 @@
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/851X315.png",
           "title": "Cover",
           "imagesize": "851X315",
-          "ratio": ""
+          "ratio": "3:1"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/940X788.png",
           "title": "Post",
           "imagesize": "940X788",
-          "ratio": ""
+          "ratio": "1:9"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/810X450.png",
@@ -68,20 +68,20 @@
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/1200X627.png",
           "title": "Ad Image",
-          "imagesize": "1200X627",
-          "ratio": ""
+          "imagesize": "1200X628",
+          "ratio": "2:1"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/720X720.png",
           "title": "Profile Image",
           "imagesize": "720X720",
-          "ratio": ""
+          "ratio": "1:1"
         },
         {
           "image": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Facebook/820X428.png",
           "title": "Group Cover Photo",
           "imagesize": "820X428",
-          "ratio": ""
+          "ratio": "2:1"
         }
       ]
     },
