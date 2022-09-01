@@ -990,6 +990,336 @@
           ]
         }
       ]
+    },
+    {
+      "id": 4,
+      "templeteCategory": "Birthday 4",
+      "templete": [
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_1.jpg",
+          "content": [
+            {
+              "text": "PLEASE JOIN US FOR A",
+              "position": "0.07F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.43f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "16th",
+              "position": "0.6F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.9f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "CELEBRATING",
+              "position": "1.15F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "Victory's Birthday",
+              "position": "1.27F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SATURDAY, MAY 23RD AT 4PM",
+              "position": "1.45F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.79F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        },
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_2.jpg",
+          "content": [
+            {
+              "text": "YOU ARE INVITED TO A",
+              "position": "0.2F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "BABY\nSHOWER",
+              "position": "0.47F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.15f",
+              "isfullwidth": true
+            },
+            {
+              "text": "HONORING\nMARK BROWN",
+              "position": "0.9F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SEPTEMBER OF 28TH 2019",
+              "position": "1.1F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "AT 6O'CLOCK IN THE EVENING",
+              "position": "1.3F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.64F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        },
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_1.jpg",
+          "content": [
+            {
+              "text": "PLEASE JOIN US FOR A",
+              "position": "0.2F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "16th",
+              "position": "0.6F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.9f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "CELEBRATING",
+              "position": "1.15F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "Victory's Birthday",
+              "position": "1.27F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SATURDAY, MAY 23RD AT 4PM",
+              "position": "1.45F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.79F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        },
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_2.jpg",
+          "content": [
+            {
+              "text": "YOU ARE INVITED TO A",
+              "position": "0.2F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "BABY\nSHOWER",
+              "position": "0.47F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.15f",
+              "isfullwidth": true
+            },
+            {
+              "text": "HONORING\nMARK BROWN",
+              "position": "0.9F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SEPTEMBER OF 28TH 2019",
+              "position": "1.1F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "AT 6O'CLOCK IN THE EVENING",
+              "position": "1.3F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.64F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        },
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_1.jpg",
+          "content": [
+            {
+              "text": "PLEASE JOIN US FOR A",
+              "position": "0.2F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "16th",
+              "position": "0.6F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.9f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "CELEBRATING",
+              "position": "1.15F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "Victory's Birthday",
+              "position": "1.27F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SATURDAY, MAY 23RD AT 4PM",
+              "position": "1.45F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.79F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        },
+        {
+          "thumb": "",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_2.jpg",
+          "content": [
+            {
+              "text": "YOU ARE INVITED TO A",
+              "position": "0.2F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "BABY\nSHOWER",
+              "position": "0.47F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.8f",
+              "fontSize": "0.15f",
+              "isfullwidth": true
+            },
+            {
+              "text": "HONORING\nMARK BROWN",
+              "position": "0.9F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "SEPTEMBER OF 28TH 2019",
+              "position": "1.1F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "AT 6O'CLOCK IN THE EVENING",
+              "position": "1.3F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.6f",
+              "fontSize": "0.075f",
+              "isfullwidth": true
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
+              "position": "1.64F",
+              "fontType": "Quicksand Bold",
+              "scale": "0.4f",
+              "fontSize": "0.085f",
+              "isfullwidth": true
+            }
+          ]
+        }
+      ]
     }
   ]
 }
