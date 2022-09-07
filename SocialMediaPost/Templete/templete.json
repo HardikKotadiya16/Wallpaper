@@ -68,7 +68,7 @@
               "position": "0.2F",
               "fontType": "Quicksand Bold",
               "scale": "0.4f",
-              "fontSize": "0.045f",
+              "fontSize": "0.040f",
               "isfullwidth": true
             },
             {
@@ -76,7 +76,7 @@
               "position": "0.47F",
               "fontType": "Quicksand Bold",
               "scale": "0.8f",
-              "fontSize": "0.1f",
+              "fontSize": "0.15f",
               "isfullwidth": true
             },
             {
@@ -92,7 +92,7 @@
               "position": "1.1F",
               "fontType": "Quicksand Bold",
               "scale": "0.6f",
-              "fontSize": "0.050f",
+              "fontSize": "0.045f",
               "isfullwidth": true
             },
             {
@@ -100,7 +100,7 @@
               "position": "1.3F",
               "fontType": "Quicksand Bold",
               "scale": "0.6f",
-              "fontSize": "0.050f",
+              "fontSize": "0.045f",
               "isfullwidth": true
             },
             {
@@ -108,7 +108,7 @@
               "position": "1.64F",
               "fontType": "Quicksand Bold",
               "scale": "0.4f",
-              "fontSize": "0.050f",
+              "fontSize": "0.045f",
               "isfullwidth": true
             }
           ]
