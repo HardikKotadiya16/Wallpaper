@@ -6,62 +6,110 @@
       "templeteCategory": "Birthday",
       "templete": [
         {
-          "thumb": "",
+          "thumb": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Templete/birthday_invitation_card_2_tn.jpg",
           "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_2.jpg",
           "content": [
             {
               "text": "PLEASE JOIN US FOR A",
               "positionX": "500",
-              "positionY": "200",
+              "positionY": "100",
               "fontType": "Quicksand Bold",
-              "scale": "0.6f",
-              "fontSize": "0.075f",
-              "isfullwidth": true
-            },
-            {
-              "text": "16th",
-              "positionX": "500",
-              "positionY": "400",
-              "fontType": "Quicksand Bold",
-              "scale": "0.9f",
-              "fontSize": "0.085f",
-              "isfullwidth": true
+              "fontSize": "50",
+              "color": "#234057"
             },
             {
               "text": "CELEBRATING",
-              "positionX": "500",
-              "positionY": "700",
+              "positionX": "350",
+              "positionY": "400",
               "fontType": "Quicksand Bold",
-              "scale": "0.4f",
-              "fontSize": "0.085f",
-              "isfullwidth": true
+              "fontSize": "90",
+              "color": "#234057"
+            },
+            {
+              "text": "16th",
+              "positionX": "550",
+              "positionY": "550",
+              "fontType": "Quicksand Bold",
+              "fontSize": "110",
+              "color": "#234057"
             },
             {
               "text": "Victory's Birthday",
-              "positionX": "500",
-              "positionY": "900",
+              "positionX": "680",
+              "positionY": "710",
               "fontType": "Quicksand Bold",
-              "scale": "0.8f",
-              "fontSize": "0.085f",
-              "isfullwidth": true
+              "fontSize": "90",
+              "color": "#234057"
             },
             {
-              "text": "SATURDAY, MAY 23RD AT 4PM",
+              "text": "SATURDAY, MAY 23RD \nAT 4PM",
               "positionX": "500",
-              "positionY": "1200",
+              "positionY": "1000",
               "fontType": "Quicksand Bold",
-              "scale": "0.4f",
-              "fontSize": "0.085f",
-              "isfullwidth": true
+              "fontSize": "50",
+              "color": "#234057"
             },
             {
-              "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
-              "positionX": "500",
-              "positionY": "1400",
+              "text": "MAIL GIFTS OR CARDS \nTO 1234 ROSEWOOD LANE, \nSAN DIEGO. CA 98765",
+              "positionX": "520",
+              "positionY": "1300",
               "fontType": "Quicksand Bold",
-              "scale": "0.4f",
-              "fontSize": "0.085f",
-              "isfullwidth": true
+              "fontSize": "45",
+              "color": "#234057"
+            }
+          ]
+        },
+        {
+          "thumb": "https://raw.githubusercontent.com/HardikKotadiya16/Wallpaper/main/SocialMediaPost/Templete/birthday_invitation_card_4_tn.jpg",
+          "image": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/images/greetingcardmaker/images/birthday_invitation_card_4.jpg",
+          "content": [
+            {
+              "text": "PLEASE JOIN US FOR A",
+              "positionX": "500",
+              "positionY": "100",
+              "fontType": "Quicksand Bold",
+              "fontSize": "50",
+              "color": "#ffffff"
+            },
+            {
+              "text": "CELEBRATING",
+              "positionX": "350",
+              "positionY": "400",
+              "fontType": "Quicksand Bold",
+              "fontSize": "90",
+              "color": "#ffffff"
+            },
+            {
+              "text": "16th",
+              "positionX": "550",
+              "positionY": "550",
+              "fontType": "Quicksand Bold",
+              "fontSize": "110",
+              "color": "#ffffff"
+            },
+            {
+              "text": "Victory's Birthday",
+              "positionX": "680",
+              "positionY": "710",
+              "fontType": "Quicksand Bold",
+              "fontSize": "90",
+              "color": "#ffffff"
+            },
+            {
+              "text": "SATURDAY, MAY 23RD \nAT 4PM",
+              "positionX": "500",
+              "positionY": "1000",
+              "fontType": "Quicksand Bold",
+              "fontSize": "50",
+              "color": "#ffffff"
+            },
+            {
+              "text": "MAIL GIFTS OR CARDS \nTO 1234 ROSEWOOD LANE, \nSAN DIEGO. CA 98765",
+              "positionX": "520",
+              "positionY": "1300",
+              "fontType": "Quicksand Bold",
+              "fontSize": "45",
+              "color": "#ffffff"
             }
           ]
         }
