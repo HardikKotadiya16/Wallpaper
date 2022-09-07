@@ -11,7 +11,8 @@
           "content": [
             {
               "text": "PLEASE JOIN US FOR A",
-              "position": "0.2F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.6f",
               "fontSize": "0.075f",
@@ -19,7 +20,8 @@
             },
             {
               "text": "16th",
-              "position": "0.6F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.9f",
               "fontSize": "0.085f",
@@ -27,7 +29,8 @@
             },
             {
               "text": "CELEBRATING",
-              "position": "1.15F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.4f",
               "fontSize": "0.085f",
@@ -35,7 +38,8 @@
             },
             {
               "text": "Victory's Birthday",
-              "position": "1F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.8f",
               "fontSize": "0.085f",
@@ -43,7 +47,8 @@
             },
             {
               "text": "SATURDAY, MAY 23RD AT 4PM",
-              "position": "1.45F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.4f",
               "fontSize": "0.085f",
@@ -51,7 +56,8 @@
             },
             {
               "text": "MAIL GIFTS OR CARDS TO 1234 ROSEWOOD LANE, SAN DIEGO. CA 98765",
-              "position": "1.79F",
+              "positionX": "500",
+              "positionY": "200",
               "fontType": "Quicksand Bold",
               "scale": "0.4f",
               "fontSize": "0.085f",
